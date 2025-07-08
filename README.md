@@ -46,14 +46,6 @@ width="30px"
 style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
-
-<img
-align="left"
-alt="HTML"
-width="30px"
-style="padding-right:10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-
 <img
 align="left"
 alt="HTML"
@@ -83,6 +75,12 @@ alt="HTML"
 width="30px"
 style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img
+align="left"
+alt="HTML"
+width="30px"
+style="padding-right:10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
           
           
           
