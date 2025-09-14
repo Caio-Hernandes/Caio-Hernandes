@@ -109,7 +109,7 @@ src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" /
 <img
 align= "left"
 height: "200"
-src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
+src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
 />
 </p>
 
@@ -117,9 +117,8 @@ src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Herna
 <img
 align= "left"
 height: "200"
-src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
+src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
 />
 </p>
-                
           
           
