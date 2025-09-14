@@ -1,8 +1,8 @@
 # Caio Hernandes
 
-**Desenvolvedor Fullstack**
+**Desenvolvedor Fullstack e Analista de Dados**
 
-Me chamo Caio Hernandes, tenho 21 anos e sou desenvolvedor Fullstack. Atualmente estou cursando Análise e desnvolvimento de Sistemas na Fatec São Paulo. Sou apaixonado por resolver problemas com código e buscar soluções eficientes para problemas complexos.
+Me chamo Caio Hernandes, tenho 21 anos e sou desenvolvedor Fullstack apaixonado por tecnologia e dados. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São Paulo, onde venho aprofundando meus conhecimentos tanto em desenvolvimento quanto em ciência de dados. Sou apaixonado por resolver problemas com código e buscar soluções eficientes para problemas complexos.
 
 
 ### Linguagens e Tecnologias
@@ -99,7 +99,27 @@ alt="HTML"
 width="30px"
 style="padding-right:10px"
 src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" />
-          
+
+<br/>
+<br/>
+
+###Estatísticas
+
+<p>
+<img
+align= "left"
+height: "200"
+src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_icons=true"
+/>
+</p>
+
+<p>
+<img
+align= "left"
+height: "200"
+src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
+/>
+</p>
                 
           
           
