@@ -117,7 +117,7 @@ src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_i
 <img
 align= "left"
 height: "200"
-src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Hernandes&show_icons=true&theme=tokyonight"
+src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Hernandes&show_icons=true&theme=tokyonight&include_all_comits=true"
 />
 </p>
           
