@@ -100,31 +100,10 @@ width="30px"
 style="padding-right:10px"
 src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" />
 
-<br/>
-<br/>
-
-### Estatísticas
-
-<p>
-<img
-align= "left"
-height: "200"
-src = "https://github-readme-stats.vercel.app/api?username=Caio-Hernandes&show_icons=true&theme=tokyonight&include_all_comits=true"
-/>
-</p>
-
-<p>
-<img
-align= "left"
-height: "200"
-src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Hernandes&show_icons=true&theme=tokyonight&include_all_comits=true"
-/>
-</p>
 <p>
 <img
 align= "left"
 height: "200"
 <src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-</p>
-          
+</p>  
           
