@@ -1,8 +1,8 @@
 # Caio Hernandes
 
-**Analista de Dados e Desenvolvedor Fullstack**
+**Dados e Desenvolvimento Fullstack**
 
-Me chamo Caio Hernandes, tenho 22 anos e sou um profissional de dados apaixonado por tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São Paulo, onde venho aprofundando meus conhecimentos tanto em desenvolvimento quanto em ciência de dados. Sou apaixonado por resolver problemas com código e pensamento analítico e buscar soluções eficientes para problemas complexos.
+Me chamo Caio Hernandes, tenho 22 anos e sou um profissional de dados apaixonado por tecnologia. Curso ADS na Fatec São Paulo e gosto muito de criar coisas e soluções, transformar ideias que só existem na minha cabeça em algo palpável e útil
 
 
 ### Linguagens e Tecnologias
