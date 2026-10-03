@@ -2,7 +2,7 @@
 
 **Dados e Desenvolvimento Fullstack**
 
-Me chamo Caio Hernandes, tenho 22 anos e sou um profissional de dados apaixonado por tecnologia. Curso ADS na Fatec São Paulo e gosto muito de criar coisas e soluções, transformar ideias que só existem na minha cabeça em algo palpável e útil
+Me chamo Caio Hernandes, tenho 22 anos e sou um desenvolvedor de software apaixonado por tecnologia. Curso ADS na Fatec São Paulo e gosto muito de criar coisas e soluções, transformar ideias que só existem na minha cabeça em algo palpável e útil
 
 
 ### Linguagens e Tecnologias
